@@ -1,0 +1,2 @@
+# NovaPilot - Lightweight Terminal AI Personal Super Intelligence Engine
+# Zero external dependencies, privacy-first, multi-LLM backend support.
